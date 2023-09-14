@@ -1,4 +1,4 @@
-# Color_Detection - Savio Sajan Moloparambil
+# Color Detection - Savio Sajan Moloparambil
 ## CodeClause Data Science Internship Task 1 - Color Detection
 
 ### Run all the cells in the [Jupyter file](https://github.com/saviosajanm/Color_Detection/blob/main/Task_1_Color_Detection_Savio_Sajan.ipynb) chronologically
